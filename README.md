@@ -1,6 +1,8 @@
 # SolidityArchives
 An archive of "interesting" solidity smart contacts based on both incentive and contract design.  
 
+Instead of just keeping these in an Evernote before I properly curate, I thought it would be best to put it out to the world (just in case someone learning stumbled upon these in their raw form).
+
 
 1. Token Curated Registries: https://github.com/skmgoldin/tcr
 2. Iterable Mapping: https://github.com/chriseth/solidity-examples/blob/master/iterable_mapping.sol
